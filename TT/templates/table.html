@@ -1,0 +1,23 @@
+<table class="prize-table">
+	<tr>
+		<td colspan="2" style="text-align:center;">
+			{{data.name}}
+		</td>
+	</tr>
+	<tr>
+		<td>Total Points Needed</td>
+		<td>{{data.points}}</td>
+	</tr>
+	<tr>
+		<td>Points Left</td>
+		<td>{{data.points - trialData.points > 0 ? data.points - trialData.points : 0}}</td>
+	</tr>
+	<tr>
+		<td style="border-right: 25px solid transparent ;">Points Per Day Needed</td>
+		<td >{{data.ppdLeft}}</td>
+	</tr>
+	<tr>
+		<td>On Track?</td>
+		<td style="background-color:{{data.color}}; text-align:center;">{{data.onTrack}}</td>
+	</tr>
+</table>

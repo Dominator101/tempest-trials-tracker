@@ -1,0 +1,197 @@
+<div style="text-align:center">
+	<countdown></countdown>
+	<input type="number" style="width:100px;text-align:center;" ng-model="trialData.points">
+	<div style="padding-top:10px;padding-bottom:50px;height:100px;" class="container">
+		<div class="row" ng-show="trialData.ppd > 0">
+			<div class="col-6">
+				Current Points per Day:
+				<div>{{trialData.ppd}}</div>
+			</div>
+			<div class="col-6">
+				Projected Final Score:
+				<div ng-click="gotoProjected()">
+					<span style="text-decoration: underline;cursor: pointer;">{{trialData.projected}}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<!-- Seal unlocks -->
+		<div class="col-xl-3 col-md-4 d-md-block d-none" style="padding:0;">
+			<prize-table ng-repeat="prize in trialData.majorPrizes | filter:{type:'seal'}" data="prize"></prize-table>
+		</div>
+
+		<!-- Poster image -->
+		<div class="col-xl-6 col-md-4 d-md-block d-none char-poster" ng-style="getBackgroundURL()"></div>
+
+		<!-- Character unlocks -->
+		<div class="col-xl-3 col-md-4 d-md-block d-none" style="padding:0;">
+			<prize-table ng-repeat="prize in trialData.majorPrizes | filter:charAllFilter" data="prize"></prize-table>
+		</div>
+
+		<div class="col-sm-12 d-md-none" style="margin-bottom:25px;">
+			<prize-table ng-repeat="prize in trialData.majorPrizes" data="prize"></prize-table>
+		</div>
+	</div>
+</div>
+
+<div style="padding-bottom:50px;padding-top:15px;">
+	<div style="text-align:center;">
+		<button ng-click="showAll = !showAll">
+			Toggle All Prizes
+		</button>
+	</div>
+	<div class="container" ng-show="showAll">
+		<div class="row" style="text-align:center;">
+			<div class="col-6 col-md-3" style="margin-bottom:20px;">
+				Orbs:<br/>
+				{{trialData.gotPrizeAmounts.orb}}/{{trialData.prizeAmounts.orb}}
+			</div>
+			<div class="col-6 col-md-3" style="margin-bottom:20px;">
+				Crystals:<br/>
+				{{trialData.gotPrizeAmounts.crystal}}/{{trialData.prizeAmounts.crystal}}
+			</div>
+			<div class="col-6 col-md-3" style="margin-bottom:20px;">
+				Feathers:<br/>
+				{{trialData.gotPrizeAmounts.feather}}/{{trialData.prizeAmounts.feather}}
+			</div>
+			<div class="col-6 col-md-3" style="margin-bottom:20px;">
+				Sacred Coins:<br/>
+				{{trialData.gotPrizeAmounts.coin}}/{{trialData.prizeAmounts.coin}}
+			</div>
+		</div>
+		<div class="row">
+			<!-- Filler -->
+			<div class="col-2 d-md-block d-none"></div>
+
+			<!-- Left Prize Col -->
+			<table class="full-prizes fp-large col-12 col-md-3 d-md-table d-none">
+				<tr style="border-bottom:1px solid black;">
+					<td>Points</td>
+					<td>Prize</td>
+				</tr>
+				<tr ng-repeat="prize in trialData.allPrizes" ng-if="$index < (trialData.allPrizes.length / 2)" class="full-prize-rows"
+					ng-class="{strikeout: prize.points <= trialData.points, projected: isProjected(prize, trialData.allPrizes[$index+1])}">
+					<td><a id="projectedAnchor" ng-if="isProjected(prize, trialData.allPrizes[$index+1])"></a>{{prize.points}}</td>
+					<td>
+						{{prize.amount}} <img ng-src="img/{{prize.img}}">
+					</td>
+				</tr>
+			</table>
+
+			<!-- Filler -->
+			<div class="col-2 d-md-block d-none"></div>
+
+			<!-- Right Prize Col -->
+			<table class="full-prizes fp-large col-12 col-md-3 d-md-table d-none">
+				<tr style="border-bottom:1px solid black;">
+					<td>Points</td>
+					<td>Prize</td>
+				</tr>
+				<tr ng-repeat="prize in trialData.allPrizes" ng-if="$index >= (trialData.allPrizes.length / 2)" class="full-prize-rows"
+					ng-class="{strikeout: prize.points <= trialData.points, projected: isProjected(prize, trialData.allPrizes[$index+1])}">
+					<td><a id="projectedAnchor" ng-if="isProjected(prize, trialData.allPrizes[$index+1])"></a>{{prize.points}}</td>
+					<td>
+						{{prize.amount}} <img ng-src="img/{{prize.img}}">
+					</td>
+				</tr>
+			</table>
+
+
+			<!-- Full Prize Col (small) -->
+			<table class="full-prizes col-sm-12 d-md-none">
+				<tr style="border-bottom:1px solid black;">
+					<td>Points</td>
+					<td>Prize</td>
+				</tr>
+				<tr ng-repeat="prize in trialData.allPrizes" class="full-prize-rows"
+					ng-class="{strikeout: prize.points <= trialData.points, projected: isProjected(prize, trialData.allPrizes[$index+1])}">
+					<td><a id="projectedAnchor" ng-if="isProjected(prize, trialData.allPrizes[$index+1])"></a>{{prize.points}}</td>
+					<td>
+						{{prize.amount}} <img ng-src="img/{{prize.img}}">
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+<style>
+	.char-poster {
+		height:500px;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+		padding:0;
+		margin:0;
+	}
+
+	.full-prizes {
+		text-align:center;
+		/*margin:auto;*/
+	}
+
+	.full-prizes td {
+		padding: 5px;
+	}
+
+	.full-prize-rows td {
+		border:1px solid black;
+	}
+
+	/* Strike Through */
+	.full-prizes {
+		border-collapse: collapse;
+	}
+
+	.full-prizes td {
+		position: relative;
+		padding: 5px 10px;
+	}
+
+	.full-prizes tr.strikeout td:nth-child(1):before {
+		content: " ";
+		position: absolute;
+		top: 50%;
+		left: 10px;
+		right: 0;
+		border-bottom: 3px solid #900;
+	}
+
+	.full-prizes tr.strikeout td:nth-child(2):before {
+		content: " ";
+		position: absolute;
+		top: 50%;
+		left: 0;
+		right: 10px;
+		border-bottom: 3px solid #900;
+	}
+
+	.fp-large tr.projected td:nth-child(2):after {
+		content: "Projected";
+		position:absolute;
+		font-style: italic;
+
+		background: #0a0;
+		color:white;
+		height:100%;
+		top:0;
+		width:100px;
+		left:100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.projected {
+		border:3px solid #0a0;
+	}
+</style>
+<!-- This just kinda pre-loads them so there's no loading. I know, not great. Shut up. -->
+<div style="display:none">
+	<img src="img/posters/neutral.png">
+	<img src="img/posters/attack.png">
+	<img src="img/posters/special.png">
+	<img src="img/posters/damage.png">
+</div>
