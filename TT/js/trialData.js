@@ -1,97 +1,97 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Shrouded by the Storm' ;
+	var trialName = 'Breath of Destiny' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2018, 0, 31, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2018, 1, 7, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2018, 1, 14, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2018, 1, 28, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Marisa' ;
+	var charName = 'Loveliwood' ;
 
 	// Seal Prizes
-	var sealName1 = 'Poison Strike 1' ;
-	var sealName2 = 'Hone Attack 1' ;
-	var sealName3 = 'Drive Defense 1' ;
+	var sealName1 = 'Threaten Attack' ;
+	var sealName2 = 'Fortress Res' ;
+	var sealName3 = 'Armored Boots' ;
 
 	// Normal trial
-	// var majorPrizes = [
-	// 	{type:'char', points:2000, name:'4* ' + charName},
-	// 	{type:'seal', points:12000, name:sealName1},
-	// 	{type:'seal', points:20000, name:sealName2},
-	// 	{type:'char', points:30000, name:'5* ' + charName},
-	// 	{type:'seal', points:40000, name:sealName3},
-	// 	{type:'all', points:99999, name:'Everything'}
-	// ] ;
-
-	// Mini trial
 	var majorPrizes = [
-		{type:'char', points:1000, name:'4* ' + charName},
-		{type:'seal', points:6000, name:sealName1},
-		{type:'seal', points:10000, name:sealName2},
-		{type:'char', points:15000, name:'5* ' + charName},
-		{type:'seal', points:20000, name:sealName3},
-		{type:'all', points:50000, name:'Everything'}
+		{type:'char', points:2000, name:'4* ' + charName},
+		{type:'seal', points:12000, name:sealName1},
+		{type:'seal', points:20000, name:sealName2},
+		{type:'char', points:30000, name:'5* ' + charName},
+		{type:'seal', points:40000, name:sealName3},
+		{type:'all', points:99999, name:'Everything'}
 	] ;
 
+	// Mini trial
+	// var majorPrizes = [
+	// 	{type:'char', points:1000, name:'4* ' + charName},
+	// 	{type:'seal', points:6000, name:sealName1},
+	// 	{type:'seal', points:10000, name:sealName2},
+	// 	{type:'char', points:15000, name:'5* ' + charName},
+	// 	{type:'seal', points:20000, name:sealName3},
+	// 	{type:'all', points:50000, name:'Everything'}
+	// ] ;
+
 	var allPrizes = [
-{points:"50",amount:"2",img:"orb.png"},
-{points:"100",amount:"1,000",img:"rShard.png"},
-{points:"150",amount:"500",img:"feather.png"},
-{points:"200",amount:"1,000",img:"bShard.png"},
-{points:"250",amount:"20",img:"coin.png"},
-{points:"350",amount:"1,000",img:"gShard.png"},
-{points:"500",amount:"2",img:"orb.png"},
-{points:"750",amount:"1,000",img:"clessShard.png"},
-{points:"1000",amount:"4*",img:"thumb.png"},
-{points:"1250",amount:"500",img:"feather.png"},
-{points:"1500",amount:"2",img:"orb.png"},
-{points:"1750",amount:"2,000",img:"rCrystal.png"},
-{points:"2000",amount:"20",img:"coin.png"},
-{points:"2250",amount:"2,000",img:"bCrystal.png"},
+{points:"100",amount:"2",img:"orb.png"},
+{points:"200",amount:"1,000",img:"rShard.png"},
+{points:"300",amount:"500",img:"feather.png"},
+{points:"400",amount:"1,000",img:"bShard.png"},
+{points:"500",amount:"20",img:"coin.png"},
+{points:"700",amount:"1,000",img:"gShard.png"},
+{points:"1000",amount:"2",img:"orb.png"},
+{points:"1500",amount:"1,000",img:"clessShard.png"},
+{points:"2000",amount:"4*",img:"thumb.png"},
 {points:"2500",amount:"500",img:"feather.png"},
-{points:"2750",amount:"2,000",img:"gCrystal.png"},
 {points:"3000",amount:"2",img:"orb.png"},
-{points:"3500",amount:"2,000",img:"clessCrystal.png"},
-{points:"4000",amount:"750",img:"feather.png"},
-{points:"4500",amount:"2",img:"orb.png"},
-{points:"5000",amount:"20",img:"coin.png"},
-{points:"5500",amount:"750",img:"feather.png"},
-{points:"6000",amount:sealName1,img:"seal1.png"},
-{points:"7000",amount:"2",img:"orb.png"},
-{points:"8000",amount:"2,000",img:"yCrystal.png"},
-{points:"9000",amount:"1,000",img:"feather.png"},
-{points:"10000",amount:sealName2,img:"seal2.png"},
-{points:"11250",amount:"3",img:"orb.png"},
-{points:"12500",amount:"5,000",img:"feather.png"},
-{points:"13750",amount:"20",img:"coin.png"},
-{points:"15000",amount:"5*",img:"thumb.png"},
-{points:"16250",amount:"1,000",img:"feather.png"},
-{points:"17500",amount:"3",img:"orb.png"},
-{points:"18750",amount:"4,000",img:"yCrystal.png"},
-{points:"20000",amount:sealName3,img:"seal3.png"},
-{points:"21250",amount:"1,000",img:"feather.png"},
-{points:"22500",amount:"1",img:"orb.png"},
-{points:"23750",amount:"4,500",img:"yCrystal.png"},
-{points:"25000",amount:"3",img:"orb.png"},
-{points:"26250",amount:"1,000",img:"feather.png"},
-{points:"27500",amount:"1",img:"orb.png"},
-{points:"28750",amount:"5,000",img:"yCrystal.png"},
-{points:"30000",amount:"3",img:"orb.png"},
-{points:"31250",amount:"1,000",img:"feather.png"},
-{points:"32500",amount:"1",img:"orb.png"},
-{points:"33750",amount:"6,000",img:"yCrystal.png"},
+{points:"3500",amount:"2,000",img:"rCrystal.png"},
+{points:"4000",amount:"20",img:"coin.png"},
+{points:"4500",amount:"2,000",img:"bCrystal.png"},
+{points:"5000",amount:"500",img:"feather.png"},
+{points:"5500",amount:"2,000",img:"gCrystal.png"},
+{points:"6000",amount:"2",img:"orb.png"},
+{points:"7000",amount:"2,000",img:"clessCrystal.png"},
+{points:"8000",amount:"750",img:"feather.png"},
+{points:"9000",amount:"2",img:"orb.png"},
+{points:"10000",amount:"20",img:"coin.png"},
+{points:"11000",amount:"750",img:"feather.png"},
+{points:"12000",amount:sealName1,img:"seal1.png"},
+{points:"14000",amount:"2",img:"orb.png"},
+{points:"16000",amount:"2,000",img:"yCrystal.png"},
+{points:"18000",amount:"1,000",img:"feather.png"},
+{points:"20000",amount:sealName2,img:"seal2.png"},
+{points:"22500",amount:"3",img:"orb.png"},
+{points:"25000",amount:"1",img:"eaBlessing.png"},
+{points:"27500",amount:"20",img:"coin.png"},
+{points:"30000",amount:"5*",img:"thumb.png"},
+{points:"32500",amount:"1,000",img:"feather.png"},
 {points:"35000",amount:"3",img:"orb.png"},
-{points:"36250",amount:"1,000",img:"feather.png"},
-{points:"37500",amount:"1",img:"orb.png"},
-{points:"38750",amount:"7,000",img:"yCrystal.png"},
-{points:"40000",amount:"3",img:"orb.png"},
-{points:"41250",amount:"1,000",img:"feather.png"},
-{points:"42500",amount:"1",img:"orb.png"},
-{points:"43750",amount:"8,000",img:"yCrystal.png"},
-{points:"45000",amount:"3",img:"orb.png"},
-{points:"46250",amount:"1,000",img:"feather.png"},
-{points:"47500",amount:"1",img:"orb.png"},
-{points:"48750",amount:"9,000",img:"yCrystal.png"},
-{points:"50000",amount:"3",img:"orb.png"}
+{points:"37000",amount:"4,000",img:"yCrystal.png"},
+{points:"40000",amount:sealName3,img:"seal3.png"},
+{points:"42500",amount:"1,000",img:"feather.png"},
+{points:"45000",amount:"1",img:"orb.png"},
+{points:"47500",amount:"4,500",img:"yCrystal.png"},
+{points:"50000",amount:"3",img:"orb.png"},
+{points:"52500",amount:"1,000",img:"feather.png"},
+{points:"55000",amount:"1",img:"orb.png"},
+{points:"57500",amount:"5,000",img:"yCrystal.png"},
+{points:"60000",amount:"3",img:"orb.png"},
+{points:"62500",amount:"1,000",img:"feather.png"},
+{points:"65000",amount:"1",img:"orb.png"},
+{points:"67500",amount:"6,000",img:"yCrystal.png"},
+{points:"70000",amount:"3",img:"orb.png"},
+{points:"72500",amount:"1,000",img:"feather.png"},
+{points:"75000",amount:"1",img:"orb.png"},
+{points:"77500",amount:"7,000",img:"yCrystal.png"},
+{points:"80000",amount:"3",img:"orb.png"},
+{points:"82500",amount:"1,000",img:"feather.png"},
+{points:"85000",amount:"1",img:"orb.png"},
+{points:"87500",amount:"8,000",img:"yCrystal.png"},
+{points:"90000",amount:"3",img:"orb.png"},
+{points:"92500",amount:"1,000",img:"feather.png"},
+{points:"95000",amount:"1",img:"orb.png"},
+{points:"97500",amount:"9,000",img:"yCrystal.png"},
+{points:"99999",amount:"3",img:"orb.png"}
 	] ;
 
 	// Stores the total amount of each prize

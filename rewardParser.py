@@ -5,7 +5,7 @@ import re
 import time
 
 REWARD_CROSSWALK = {
-	'Orbs':'orb.png',
+	'Orb':'orb.png',
 	'Universal_Crystal':'yCrystal.png',
 	'Universal_Shard':'yCrystal.png',
 	'Transparent_Crystal':'clessCrystal.png',
@@ -18,7 +18,7 @@ REWARD_CROSSWALK = {
 	'Verdant_Shard':'gShard.png',
 	'Feathers':'feather.png',
 	'Sacred_Coin':'coin.png',
-	'Sacred_Seals':'seal1.png',
+	'Sacred_Seal':'seal1.png',
 	'Wind_Blessing':'wiBlessing.png',
 	'Water_Blessing':'waBlessing.png',
 	'Fire_Blessing':'fiBlessing.png',
