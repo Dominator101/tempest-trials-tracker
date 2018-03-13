@@ -40,7 +40,10 @@ def getDetails(amount, prize) :
 
 	img = ''
 	if len(link) == 1:
-		img = REWARD_CROSSWALK[link[0]]
+		if link[0] == 'Blessing':
+			img = REWARD_CROSSWALK[imgAlt[0].replace(' ','_').replace('.png', '')]
+		else:
+			img = REWARD_CROSSWALK[link[0]]
 
 	prAmt = ''
 	if(len(prizeAmount) == 0) :
