@@ -1,16 +1,16 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Breath of Destiny' ;
+	var trialName = 'Invisible Ties' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2018, 1, 14, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2018, 1, 28, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2018, 2, 15, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2018, 2, 29, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Loveliwood' ;
+	var charName = 'Gerome' ;
 
 	// Seal Prizes
-	var sealName1 = 'Threaten Attack' ;
-	var sealName2 = 'Fortress Res' ;
-	var sealName3 = 'Armored Boots' ;
+	var sealName1 = 'Obstruct' ;
+	var sealName2 = 'Res Ploy' ;
+	var sealName3 = 'Defense Tactic' ;
 
 	// Normal trial
 	var majorPrizes = [
@@ -61,7 +61,7 @@ app.factory('trialData',function($rootScope) {
 {points:"18000",amount:"1,000",img:"feather.png"},
 {points:"20000",amount:sealName2,img:"seal2.png"},
 {points:"22500",amount:"3",img:"orb.png"},
-{points:"25000",amount:"1",img:"eaBlessing.png"},
+{points:"25000",amount:"1",img:"fiBlessing.png"},
 {points:"27500",amount:"20",img:"coin.png"},
 {points:"30000",amount:"5*",img:"thumb.png"},
 {points:"32500",amount:"1,000",img:"feather.png"},
