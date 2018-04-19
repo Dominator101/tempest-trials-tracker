@@ -11,268 +11,277 @@
 <th>Reward
 </th></tr>
 <tr>
-<td>100
+<td>50
 </td>
 <td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td>
-<td>30,000
+<td>15,000
 </td>
-<td><div style="position: relative; top: 0px; left: 0px; display:inline-block;"><div style="position:relative; top:0px; left:0px;"><a href="/Gerome" title="Gerome"><img alt="Pane 5.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/b/b4/Pane_5.png/42px-Pane_5.png?version=89e32996804e37069169feb67c6f943b" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/b/b4/Pane_5.png/63px-Pane_5.png?version=89e32996804e37069169feb67c6f943b 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/b/b4/Pane_5.png/84px-Pane_5.png?version=89e32996804e37069169feb67c6f943b 2x"></a></div><div style="opacity:1; position:absolute; top:2px; left:2px; z-index:3; line-height:0;"><a href="/Gerome" title="Gerome"><img alt="Icon Portrait Gerome.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d5/Icon_Portrait_Gerome.png/38px-Icon_Portrait_Gerome.png?version=a189d6aa95538e29f0a84d08e5c835d5" width="38" height="38" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d5/Icon_Portrait_Gerome.png/57px-Icon_Portrait_Gerome.png?version=a189d6aa95538e29f0a84d08e5c835d5 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d5/Icon_Portrait_Gerome.png/76px-Icon_Portrait_Gerome.png?version=a189d6aa95538e29f0a84d08e5c835d5 2x"></a></div><div style="opacity:1; position:absolute; top:0px; left:0px; z-index:3; line-height:0;"><a href="/Gerome" title="Gerome"><img alt="Frame 5.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/18/Frame_5.png/42px-Frame_5.png?version=49413291faf6eecdead157e649642644" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/18/Frame_5.png/63px-Frame_5.png?version=49413291faf6eecdead157e649642644 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/18/Frame_5.png/84px-Frame_5.png?version=49413291faf6eecdead157e649642644 2x"></a></div></div>
+<td><div style="position: relative; top: 0px; left: 0px; display:inline-block;"><div style="position:relative; top:0px; left:0px;"><a href="/Finn" title="Finn"><img alt="Pane 5.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/b/b4/Pane_5.png/42px-Pane_5.png?version=89e32996804e37069169feb67c6f943b" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/b/b4/Pane_5.png/63px-Pane_5.png?version=89e32996804e37069169feb67c6f943b 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/b/b4/Pane_5.png/84px-Pane_5.png?version=89e32996804e37069169feb67c6f943b 2x"></a></div><div style="opacity:1; position:absolute; top:2px; left:2px; z-index:3; line-height:0;"><a href="/Finn" title="Finn"><img alt="Icon Portrait Finn.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/49/Icon_Portrait_Finn.png/38px-Icon_Portrait_Finn.png?version=f636c495ea7d1bf6bb5a809e37e6ef7c" width="38" height="38" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/49/Icon_Portrait_Finn.png/57px-Icon_Portrait_Finn.png?version=f636c495ea7d1bf6bb5a809e37e6ef7c 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/49/Icon_Portrait_Finn.png/76px-Icon_Portrait_Finn.png?version=f636c495ea7d1bf6bb5a809e37e6ef7c 2x"></a></div><div style="opacity:1; position:absolute; top:0px; left:0px; z-index:3; line-height:0;"><a href="/Finn" title="Finn"><img alt="Frame 5.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/18/Frame_5.png/42px-Frame_5.png?version=49413291faf6eecdead157e649642644" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/18/Frame_5.png/63px-Frame_5.png?version=49413291faf6eecdead157e649642644 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/18/Frame_5.png/84px-Frame_5.png?version=49413291faf6eecdead157e649642644 2x"></a></div></div>
+</td></tr>
+<tr>
+<td>100
+</td>
+<td>1,000 <a href="/Scarlet_Shard" title="Scarlet Shard"><img alt="Scarlet Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/aa/Scarlet_Shard.png/20px-Scarlet_Shard.png?version=e75c2cace97781acae165f0dabb318eb" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/aa/Scarlet_Shard.png/30px-Scarlet_Shard.png?version=e75c2cace97781acae165f0dabb318eb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/aa/Scarlet_Shard.png/40px-Scarlet_Shard.png?version=e75c2cace97781acae165f0dabb318eb 2x"></a>
+</td>
+<td>16,250
+</td>
+<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
+</td></tr>
+<tr>
+<td>150
+</td>
+<td>500 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
+</td>
+<td>17,500
+</td>
+<td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
 <td>200
 </td>
-<td>1,000 <a href="/Scarlet_Shard" title="Scarlet Shard"><img alt="Scarlet Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/aa/Scarlet_Shard.png/20px-Scarlet_Shard.png?version=e75c2cace97781acae165f0dabb318eb" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/aa/Scarlet_Shard.png/30px-Scarlet_Shard.png?version=e75c2cace97781acae165f0dabb318eb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/aa/Scarlet_Shard.png/40px-Scarlet_Shard.png?version=e75c2cace97781acae165f0dabb318eb 2x"></a>
-</td>
-<td>32,500
-</td>
-<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
-</td></tr>
-<tr>
-<td>300
-</td>
-<td>500 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
-</td>
-<td>35,000
-</td>
-<td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
-</td></tr>
-<tr>
-<td>400
-</td>
 <td>1,000 <a href="/Azure_Shard" title="Azure Shard"><img alt="Azure Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/2/25/Azure_Shard.png/20px-Azure_Shard.png?version=9b002e0a1ad8ff85cbb755ee8fa1aa7d" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/2/25/Azure_Shard.png/30px-Azure_Shard.png?version=9b002e0a1ad8ff85cbb755ee8fa1aa7d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/2/25/Azure_Shard.png/40px-Azure_Shard.png?version=9b002e0a1ad8ff85cbb755ee8fa1aa7d 2x"></a>
 </td>
-<td>37,000
+<td>18,750
 </td>
 <td>4,000 <a href="/Universal_Crystal" title="Universal Crystal"><img alt="Universal Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/20px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/30px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/40px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 2x"></a>
 </td></tr>
 <tr>
-<td>500
+<td>250
 </td>
 <td>20 <a href="/Sacred_Coin" title="Sacred Coin"><img alt="Sacred Coin.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/20px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/30px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/40px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 2x"></a>
 </td>
-<td>40,000
+<td>20,000
 </td>
-<td><a href="/Sacred_Seals" title="Sacred Seals"><img alt="Empty Passive Icon.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/20px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/30px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/40px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84 2x"></a> <a href="/Sacred_Seals" title="Sacred Seals">Sacred Seals</a>
-</td></tr>
+<td><span style="white-space:nowrap;">
+<p><a href="/Drive_Attack" title="Drive Attack"><img alt="Drive Atk 1.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/95/Drive_Atk_1.png/20px-Drive_Atk_1.png?version=6d52219b6d7f0019438d5ddcce150783" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/95/Drive_Atk_1.png/30px-Drive_Atk_1.png?version=6d52219b6d7f0019438d5ddcce150783 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/95/Drive_Atk_1.png/40px-Drive_Atk_1.png?version=6d52219b6d7f0019438d5ddcce150783 2x"></a> 
+<span class="tooltip" style="border-bottom: 0;"><a href="/Drive_Attack" title="Drive Attack">Drive Atk 1</a><span class="tooltiptext" style="white-space:normal; text-align:left; transform: translateX(-25%); width:350px;"><a href="/Drive_Attack" title="Drive Attack"><img alt="Drive Atk 1.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/95/Drive_Atk_1.png/20px-Drive_Atk_1.png?version=6d52219b6d7f0019438d5ddcce150783" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/95/Drive_Atk_1.png/30px-Drive_Atk_1.png?version=6d52219b6d7f0019438d5ddcce150783 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/95/Drive_Atk_1.png/40px-Drive_Atk_1.png?version=6d52219b6d7f0019438d5ddcce150783 2x"></a> <b>Drive Atk 1</b> (C, 120 SP)<br><i>Sacred Seal:</i> No<br><i>Exclusive:</i> No<br><br><b>Effect</b>: Grants Atk+2 to allies within 2 spaces during combat.</span></span>
+</p>
+</span></td></tr>
 <tr>
-<td>700
+<td>350
 </td>
 <td>1,000 <a href="/Verdant_Shard" title="Verdant Shard"><img alt="Verdant Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/9c/Verdant_Shard.png/20px-Verdant_Shard.png?version=b09fb52c0f9ea559d09b500ada8c469e" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/9c/Verdant_Shard.png/30px-Verdant_Shard.png?version=b09fb52c0f9ea559d09b500ada8c469e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/9c/Verdant_Shard.png/40px-Verdant_Shard.png?version=b09fb52c0f9ea559d09b500ada8c469e 2x"></a>
 </td>
-<td>42,500
+<td>21,250
 </td>
 <td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td></tr>
 <tr>
-<td>1,000
+<td>500
 </td>
 <td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td>
-<td>45,000
+<td>22,500
 </td>
 <td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
-<td>1,500
+<td>750
 </td>
 <td>1,000 <a href="/Transparent_Shard" title="Transparent Shard"><img alt="Transparent Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/dd/Transparent_Shard.png/20px-Transparent_Shard.png?version=f9ed0a08e1e684df2e4c785f5fefa22e" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/dd/Transparent_Shard.png/30px-Transparent_Shard.png?version=f9ed0a08e1e684df2e4c785f5fefa22e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/dd/Transparent_Shard.png/40px-Transparent_Shard.png?version=f9ed0a08e1e684df2e4c785f5fefa22e 2x"></a>
 </td>
-<td>47,500
+<td>23,750
 </td>
 <td>4,500 <a href="/Universal_Shard" title="Universal Shard"><img alt="Universal Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/20px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/30px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/40px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 2x"></a>
 </td></tr>
 <tr>
-<td>2,000
+<td>1,000
 </td>
-<td><div style="position: relative; top: 0px; left: 0px; display:inline-block;"><div style="position:relative; top:0px; left:0px;"><a href="/Gerome" title="Gerome"><img alt="Pane 4.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/6/6d/Pane_4.png/42px-Pane_4.png?version=1ac5cd45a13b6651341a073366b79b62" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/6/6d/Pane_4.png/63px-Pane_4.png?version=1ac5cd45a13b6651341a073366b79b62 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/6/6d/Pane_4.png/84px-Pane_4.png?version=1ac5cd45a13b6651341a073366b79b62 2x"></a></div><div style="opacity:1; position:absolute; top:2px; left:2px; z-index:3; line-height:0;"><a href="/Gerome" title="Gerome"><img alt="Icon Portrait Gerome.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d5/Icon_Portrait_Gerome.png/38px-Icon_Portrait_Gerome.png?version=a189d6aa95538e29f0a84d08e5c835d5" width="38" height="38" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d5/Icon_Portrait_Gerome.png/57px-Icon_Portrait_Gerome.png?version=a189d6aa95538e29f0a84d08e5c835d5 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d5/Icon_Portrait_Gerome.png/76px-Icon_Portrait_Gerome.png?version=a189d6aa95538e29f0a84d08e5c835d5 2x"></a></div><div style="opacity:1; position:absolute; top:0px; left:0px; z-index:3; line-height:0;"><a href="/Gerome" title="Gerome"><img alt="Frame 4.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/cc/Frame_4.png/42px-Frame_4.png?version=e0ea4bf8105ad7138bffdbce29762f60" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/cc/Frame_4.png/63px-Frame_4.png?version=e0ea4bf8105ad7138bffdbce29762f60 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/cc/Frame_4.png/84px-Frame_4.png?version=e0ea4bf8105ad7138bffdbce29762f60 2x"></a></div></div>
+<td><div style="position: relative; top: 0px; left: 0px; display:inline-block;"><div style="position:relative; top:0px; left:0px;"><a href="/Finn" title="Finn"><img alt="Pane 4.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/6/6d/Pane_4.png/42px-Pane_4.png?version=1ac5cd45a13b6651341a073366b79b62" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/6/6d/Pane_4.png/63px-Pane_4.png?version=1ac5cd45a13b6651341a073366b79b62 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/6/6d/Pane_4.png/84px-Pane_4.png?version=1ac5cd45a13b6651341a073366b79b62 2x"></a></div><div style="opacity:1; position:absolute; top:2px; left:2px; z-index:3; line-height:0;"><a href="/Finn" title="Finn"><img alt="Icon Portrait Finn.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/49/Icon_Portrait_Finn.png/38px-Icon_Portrait_Finn.png?version=f636c495ea7d1bf6bb5a809e37e6ef7c" width="38" height="38" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/49/Icon_Portrait_Finn.png/57px-Icon_Portrait_Finn.png?version=f636c495ea7d1bf6bb5a809e37e6ef7c 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/49/Icon_Portrait_Finn.png/76px-Icon_Portrait_Finn.png?version=f636c495ea7d1bf6bb5a809e37e6ef7c 2x"></a></div><div style="opacity:1; position:absolute; top:0px; left:0px; z-index:3; line-height:0;"><a href="/Finn" title="Finn"><img alt="Frame 4.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/cc/Frame_4.png/42px-Frame_4.png?version=e0ea4bf8105ad7138bffdbce29762f60" width="42" height="42" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/cc/Frame_4.png/63px-Frame_4.png?version=e0ea4bf8105ad7138bffdbce29762f60 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/cc/Frame_4.png/84px-Frame_4.png?version=e0ea4bf8105ad7138bffdbce29762f60 2x"></a></div></div>
 </td>
-<td>50,000
+<td>25,000
 </td>
 <td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+</td></tr>
+<tr>
+<td>1,250
+</td>
+<td>500 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
+</td>
+<td>26,250
+</td>
+<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
+</td></tr>
+<tr>
+<td>1,500
+</td>
+<td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+</td>
+<td>27,500
+</td>
+<td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+</td></tr>
+<tr>
+<td>1,750
+</td>
+<td>2,000 <a href="/Scarlet_Crystal" title="Scarlet Crystal"><img alt="Scarlet Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/c3/Scarlet_Crystal.png/20px-Scarlet_Crystal.png?version=b3fdbfe22412db0843634da91d55d3c2" width="20" height="22" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/c3/Scarlet_Crystal.png/30px-Scarlet_Crystal.png?version=b3fdbfe22412db0843634da91d55d3c2 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/c3/Scarlet_Crystal.png/40px-Scarlet_Crystal.png?version=b3fdbfe22412db0843634da91d55d3c2 2x"></a>
+</td>
+<td>28,750
+</td>
+<td>5,000 <a href="/Universal_Crystal" title="Universal Crystal"><img alt="Universal Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/20px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/30px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/40px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 2x"></a>
+</td></tr>
+<tr>
+<td>2,000
+</td>
+<td>20 <a href="/Sacred_Coin" title="Sacred Coin"><img alt="Sacred Coin.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/20px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/30px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/40px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 2x"></a>
+</td>
+<td>30,000
+</td>
+<td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+</td></tr>
+<tr>
+<td>2,250
+</td>
+<td>2,000 <a href="/Azure_Crystal" title="Azure Crystal"><img alt="Azure Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/7/79/Azure_Crystal.png/20px-Azure_Crystal.png?version=fcfca5b8828e2d19648e285d1e4c407d" width="20" height="22" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/7/79/Azure_Crystal.png/30px-Azure_Crystal.png?version=fcfca5b8828e2d19648e285d1e4c407d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/7/79/Azure_Crystal.png/40px-Azure_Crystal.png?version=fcfca5b8828e2d19648e285d1e4c407d 2x"></a>
+</td>
+<td>31,250
+</td>
+<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td></tr>
 <tr>
 <td>2,500
 </td>
 <td>500 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td>
-<td>52,500
+<td>32,500
 </td>
-<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
+<td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+</td></tr>
+<tr>
+<td>2,750
+</td>
+<td>2,000 <a href="/Verdant_Crystal" title="Verdant Crystal"><img alt="Verdant Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/12/Verdant_Crystal.png/20px-Verdant_Crystal.png?version=cf5045d5835f16a4b66b135b27e7989a" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/12/Verdant_Crystal.png/30px-Verdant_Crystal.png?version=cf5045d5835f16a4b66b135b27e7989a 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/12/Verdant_Crystal.png/40px-Verdant_Crystal.png?version=cf5045d5835f16a4b66b135b27e7989a 2x"></a>
+</td>
+<td>33,750
+</td>
+<td>6,000 <a href="/Universal_Shard" title="Universal Shard"><img alt="Universal Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/20px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/30px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/40px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 2x"></a>
 </td></tr>
 <tr>
 <td>3,000
 </td>
 <td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td>
-<td>55,000
+<td>35,000
 </td>
-<td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+<td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
 <td>3,500
 </td>
-<td>2,000 <a href="/Scarlet_Crystal" title="Scarlet Crystal"><img alt="Scarlet Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/c3/Scarlet_Crystal.png/20px-Scarlet_Crystal.png?version=b3fdbfe22412db0843634da91d55d3c2" width="20" height="22" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/c3/Scarlet_Crystal.png/30px-Scarlet_Crystal.png?version=b3fdbfe22412db0843634da91d55d3c2 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/c/c3/Scarlet_Crystal.png/40px-Scarlet_Crystal.png?version=b3fdbfe22412db0843634da91d55d3c2 2x"></a>
+<td>2,000 <a href="/Transparent_Crystal" title="Transparent Crystal"><img alt="Transparent Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d7/Transparent_Crystal.png/20px-Transparent_Crystal.png?version=69f721108f622ca280c9574a0a00ce4e" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d7/Transparent_Crystal.png/30px-Transparent_Crystal.png?version=69f721108f622ca280c9574a0a00ce4e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d7/Transparent_Crystal.png/40px-Transparent_Crystal.png?version=69f721108f622ca280c9574a0a00ce4e 2x"></a>
 </td>
-<td>57,500
+<td>36,250
 </td>
-<td>5,000 <a href="/Universal_Crystal" title="Universal Crystal"><img alt="Universal Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/20px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/30px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/40px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 2x"></a>
+<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td></tr>
 <tr>
 <td>4,000
 </td>
-<td>20 <a href="/Sacred_Coin" title="Sacred Coin"><img alt="Sacred Coin.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/20px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/30px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/40px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 2x"></a>
+<td>750 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td>
-<td>60,000
+<td>37,500
 </td>
-<td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
+<td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
 <td>4,500
 </td>
-<td>2,000 <a href="/Azure_Crystal" title="Azure Crystal"><img alt="Azure Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/7/79/Azure_Crystal.png/20px-Azure_Crystal.png?version=fcfca5b8828e2d19648e285d1e4c407d" width="20" height="22" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/7/79/Azure_Crystal.png/30px-Azure_Crystal.png?version=fcfca5b8828e2d19648e285d1e4c407d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/7/79/Azure_Crystal.png/40px-Azure_Crystal.png?version=fcfca5b8828e2d19648e285d1e4c407d 2x"></a>
-</td>
-<td>62,500
-</td>
-<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
-</td></tr>
-<tr>
-<td>5,000
-</td>
-<td>500 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
-</td>
-<td>65,000
-</td>
-<td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
-</td></tr>
-<tr>
-<td>5,500
-</td>
-<td>2,000 <a href="/Verdant_Crystal" title="Verdant Crystal"><img alt="Verdant Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/12/Verdant_Crystal.png/20px-Verdant_Crystal.png?version=cf5045d5835f16a4b66b135b27e7989a" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/12/Verdant_Crystal.png/30px-Verdant_Crystal.png?version=cf5045d5835f16a4b66b135b27e7989a 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/1/12/Verdant_Crystal.png/40px-Verdant_Crystal.png?version=cf5045d5835f16a4b66b135b27e7989a 2x"></a>
-</td>
-<td>67,500
-</td>
-<td>6,000 <a href="/Universal_Shard" title="Universal Shard"><img alt="Universal Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/20px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/30px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/40px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 2x"></a>
-</td></tr>
-<tr>
-<td>6,000
-</td>
 <td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td>
-<td>70,000
-</td>
-<td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
-</td></tr>
-<tr>
-<td>7,000
-</td>
-<td>2,000 <a href="/Transparent_Crystal" title="Transparent Crystal"><img alt="Transparent Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d7/Transparent_Crystal.png/20px-Transparent_Crystal.png?version=69f721108f622ca280c9574a0a00ce4e" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d7/Transparent_Crystal.png/30px-Transparent_Crystal.png?version=69f721108f622ca280c9574a0a00ce4e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/d7/Transparent_Crystal.png/40px-Transparent_Crystal.png?version=69f721108f622ca280c9574a0a00ce4e 2x"></a>
-</td>
-<td>72,500
-</td>
-<td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
-</td></tr>
-<tr>
-<td>8,000
-</td>
-<td>750 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
-</td>
-<td>75,000
-</td>
-<td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
-</td></tr>
-<tr>
-<td>9,000
-</td>
-<td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
-</td>
-<td>77,500
+<td>38,750
 </td>
 <td>7,000 <a href="/Universal_Crystal" title="Universal Crystal"><img alt="Universal Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/20px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/30px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/40px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 2x"></a>
 </td></tr>
 <tr>
-<td>10,000
+<td>5,000
 </td>
 <td>20 <a href="/Sacred_Coin" title="Sacred Coin"><img alt="Sacred Coin.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/20px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/30px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/40px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 2x"></a>
 </td>
-<td>80,000
+<td>40,000
 </td>
 <td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
-<td>11,000
+<td>5,500
 </td>
 <td>750 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td>
-<td>82,500
+<td>41,250
 </td>
 <td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td></tr>
 <tr>
-<td>12,000
+<td>6,000
 </td>
-<td><a href="/Sacred_Seals" title="Sacred Seals"><img alt="Empty Passive Icon.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/20px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/30px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/40px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84 2x"></a> <a href="/Sacred_Seals" title="Sacred Seals">Sacred Seals</a>
-</td>
-<td>85,000
+<td><span style="white-space:nowrap;">
+<p><a href="/Seal_Speed" title="Seal Speed"><img alt="Seal Spd 1.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/db/Seal_Spd_1.png/20px-Seal_Spd_1.png?version=c18bd984c5f7833565e6a21b8309f321" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/db/Seal_Spd_1.png/30px-Seal_Spd_1.png?version=c18bd984c5f7833565e6a21b8309f321 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/db/Seal_Spd_1.png/40px-Seal_Spd_1.png?version=c18bd984c5f7833565e6a21b8309f321 2x"></a> 
+<span class="tooltip" style="border-bottom: 0;"><a href="/Seal_Speed" title="Seal Speed">Seal Spd 1</a><span class="tooltiptext" style="white-space:normal; text-align:left; transform: translateX(-25%); width:350px;"><a href="/Seal_Speed" title="Seal Speed"><img alt="Seal Spd 1.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/db/Seal_Spd_1.png/20px-Seal_Spd_1.png?version=c18bd984c5f7833565e6a21b8309f321" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/db/Seal_Spd_1.png/30px-Seal_Spd_1.png?version=c18bd984c5f7833565e6a21b8309f321 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/d/db/Seal_Spd_1.png/40px-Seal_Spd_1.png?version=c18bd984c5f7833565e6a21b8309f321 2x"></a> <b>Seal Spd 1</b> (B, 40 SP)<br><i>Sacred Seal:</i> No<br><i>Exclusive:</i> No<br><br><b>Effect</b>: Inflicts Spd-3 on foe through its next action after combat.</span></span>
+</p>
+</span></td>
+<td>42,500
 </td>
 <td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
-<td>14,000
+<td>7,000
 </td>
 <td>2 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td>
-<td>87,500
+<td>43,750
 </td>
 <td>8,000 <a href="/Universal_Shard" title="Universal Shard"><img alt="Universal Shard.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/20px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e" width="20" height="24" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/30px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/a/a5/Universal_Shard.png/40px-Universal_Shard.png?version=71c677f65cad01088a9915f2c15f354e 2x"></a>
 </td></tr>
 <tr>
-<td>16,000
+<td>8,000
 </td>
 <td>2,000 <a href="/Universal_Crystal" title="Universal Crystal"><img alt="Universal Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/20px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/30px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/40px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 2x"></a>
 </td>
-<td>90,000
+<td>45,000
 </td>
 <td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
-<td>18,000
+<td>9,000
 </td>
 <td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td>
-<td>92,500
+<td>46,250
 </td>
 <td>1,000 <a href="/Feathers" title="Feathers"><img alt="Hero Feather.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/20px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/30px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f9/Hero_Feather.png/40px-Hero_Feather.png?version=f369e8584fea78708d03678cf1758a9d 2x"></a>
 </td></tr>
 <tr>
-<td>20,000
+<td>10,000
 </td>
-<td><a href="/Sacred_Seals" title="Sacred Seals"><img alt="Empty Passive Icon.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/20px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/30px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/8/8f/Empty_Passive_Icon.png/40px-Empty_Passive_Icon.png?version=98f6299b44adee9dc6c478801f617b84 2x"></a> <a href="/Sacred_Seals" title="Sacred Seals">Sacred Seals</a>
-</td>
-<td>95,000
+<td><span style="white-space:nowrap;">
+<p><a href="/Fortress_Defense" title="Fortress Defense"><img alt="Fortress Def 1.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/40/Fortress_Def_1.png/20px-Fortress_Def_1.png?version=e6c54d35b6688e4297cf4500074cf188" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/40/Fortress_Def_1.png/30px-Fortress_Def_1.png?version=e6c54d35b6688e4297cf4500074cf188 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/40/Fortress_Def_1.png/40px-Fortress_Def_1.png?version=e6c54d35b6688e4297cf4500074cf188 2x"></a> 
+<span class="tooltip" style="border-bottom: 0;"><a href="/Fortress_Defense" title="Fortress Defense">Fortress Def 1</a><span class="tooltiptext" style="white-space:normal; text-align:left; transform: translateX(-25%); width:350px;"><a href="/Fortress_Defense" title="Fortress Defense"><img alt="Fortress Def 1.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/40/Fortress_Def_1.png/20px-Fortress_Def_1.png?version=e6c54d35b6688e4297cf4500074cf188" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/40/Fortress_Def_1.png/30px-Fortress_Def_1.png?version=e6c54d35b6688e4297cf4500074cf188 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/4/40/Fortress_Def_1.png/40px-Fortress_Def_1.png?version=e6c54d35b6688e4297cf4500074cf188 2x"></a> <b>Fortress Def 1</b> (A, 40 SP)<br><i>Sacred Seal:</i> No<br><i>Exclusive:</i> No<br><br><b>Effect</b>: Grants Def+3.<br>Inflicts Atk-3.</span></span>
+</p>
+</span></td>
+<td>47,500
 </td>
 <td>1 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
-<td>22,500
+<td>11,250
 </td>
 <td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td>
-<td>97,500
+<td>48,750
 </td>
 <td>9,000 <a href="/Universal_Crystal" title="Universal Crystal"><img alt="Universal Crystal.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/20px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb" width="20" height="23" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/30px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/0/01/Universal_Crystal.png/40px-Universal_Crystal.png?version=94158493955101d056280b24a9399bcb 2x"></a>
 </td></tr>
 <tr>
-<td>25,000
+<td>12,500
 </td>
-<td> 1 <a href="/Blessing" title="Blessing"><img alt="Fire Blessing.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/2/21/Fire_Blessing.png/20px-Fire_Blessing.png?version=a583e903c2b3ab813a77e5e49c476f85" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/2/21/Fire_Blessing.png/30px-Fire_Blessing.png?version=a583e903c2b3ab813a77e5e49c476f85 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/2/21/Fire_Blessing.png/40px-Fire_Blessing.png?version=a583e903c2b3ab813a77e5e49c476f85 2x"></a>
+<td> 1 <a href="/Earth_Blessing" title="Earth Blessing"><img alt="Earth Blessing.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f7/Earth_Blessing.png/20px-Earth_Blessing.png?version=9eb0e81eeb2d77d7b2e63d67bdb3f754" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f7/Earth_Blessing.png/30px-Earth_Blessing.png?version=9eb0e81eeb2d77d7b2e63d67bdb3f754 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/f/f7/Earth_Blessing.png/40px-Earth_Blessing.png?version=9eb0e81eeb2d77d7b2e63d67bdb3f754 2x"></a>
 </td>
-<td>99,999
+<td>50,000
 </td>
 <td>3 <a href="/Orb" title="Orb"><img alt="Orb.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/20px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/30px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/9/96/Orb.png/40px-Orb.png?version=3c96088b64d1b7263d7385f5152ca699 2x"></a>
 </td></tr>
 <tr>
-<td>27,500
+<td>13,750
 </td>
 <td>20 <a href="/Sacred_Coin" title="Sacred Coin"><img alt="Sacred Coin.png" src="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/20px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f" width="20" height="20" srcset="https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/30px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 1.5x, https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/e/e9/Sacred_Coin.png/40px-Sacred_Coin.png?version=ebf15a28c93d68daecc29f0ba9453d9f 2x"></a>
 </td>
