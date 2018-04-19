@@ -47,11 +47,12 @@ def getDetails(amount, prize) :
 
 	prAmt = ''
 	if(len(prizeAmount) == 0) :
-		prAmt = imgAlt[0][5] + '*'
-		img = 'thumb.png'
-	elif prizeAmount[0] == '' :
-		prAmt = 'sacredseal'
-		img = 'seal1.png'
+		if(len(imgAlt) == 3) :
+			prAmt = imgAlt[0][5] + '*'
+			img = 'thumb.png'
+		else :
+			prAmt = 'sacredseal'
+			img = 'seal1.png'
 	else :
 		prAmt = str(prizeAmount[0])
 	
