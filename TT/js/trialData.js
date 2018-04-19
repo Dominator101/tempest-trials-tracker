@@ -22,7 +22,7 @@ app.factory('trialData',function($rootScope) {
 	// 	{type:'all', points:99999, name:'Everything'}
 	// ] ;
 
-	Mini trial
+	//Mini trial
 	var majorPrizes = [
 		{type:'char', points:1000, name:'4* ' + charName},
 		{type:'seal', points:6000, name:sealName1},
