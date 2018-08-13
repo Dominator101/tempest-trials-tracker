@@ -1,16 +1,16 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Feud of the Fangs' ;
+	var trialName = 'Sweet Dreams' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2018, 5, 16, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2018, 5, 25, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2018, 6, 15, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2018, 6, 25, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Canas' ;
+	var charName = 'Masked Marth' ;
 
 	// Seal Prizes
-	var sealName1 = 'Earth Dance' ;
-	var sealName2 = 'Live to Serve' ;
-	var sealName3 = 'Res Tactic' ;
+	var sealName1 = 'HP/Res+' ;
+	var sealName2 = 'Speed Ploy' ;
+	var sealName3 = 'Flashing Blade' ;
 
 	// Normal trial
 	// var majorPrizes = [
@@ -61,7 +61,7 @@ app.factory('trialData',function($rootScope) {
 {points:"9000",amount:"1,000",img:"feather.png"},
 {points:"10000",amount:sealName2,img:"seal2.png"},
 {points:"11250",amount:"3",img:"orb.png"},
-{points:"12500",amount:"1",img:"waBlessing.png"},
+{points:"12500",amount:"1",img:"fiBlessing.png"},
 {points:"13750",amount:"20",img:"coin.png"},
 {points:"15000",amount:"5*",img:"thumb.png"},
 {points:"16250",amount:"1,000",img:"feather.png"},
