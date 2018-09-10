@@ -98,10 +98,15 @@ app.controller('countdownCont', function($scope, $location, trialData) {
 		var rMinutes = Math.floor((target % (1000 * 60 * 60)) / (1000 * 60)) ;
 		var rSeconds = Math.floor((target % (1000 * 60)) / 1000) ;
 
-		var d = rDays == 1 ? ' day ' : ' days ' ;
-		var h = rHours == 1 ? ' hour ' : ' hours ' ;
-		var m = rMinutes == 1 ? ' minute ' : ' minutes ' ;
-		var s = rSeconds == 1 ? ' second ' : ' seconds ' ;
+		var d = rDays == 0 ? '' : rDays == 1 ? ' day ' : ' days ' ;
+		var h = rHours == 0 ? '' : rHours == 1 ? ' hour ' : ' hours ' ;
+		var m = rMinutes == 0 ? '' : rMinutes == 1 ? ' minute ' : ' minutes ' ;
+		var s = rSeconds == 0 ? '' : rSeconds == 1 ? ' second ' : ' seconds ' ;
+
+		if(rDays == 0) rDays = '' ;
+		if(rHours == 0) rHours = '' ;
+		if(rMinutes == 0) rMinutes = '' ;
+		if(rSeconds == 0) rSeconds = '' ;
 
 		// Draw countdown
 		$scope.time += rDays + d + rHours + h + rMinutes + m + rSeconds + s ;
