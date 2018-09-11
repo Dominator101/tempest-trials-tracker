@@ -8,9 +8,9 @@ app.factory('trialData',function($rootScope) {
 	var charName = 'Ethlyn' ;
 
 	// Seal Prizes
-	var sealName1 = 'Threaten Defense' ;
-	var sealName2 = 'Drive Speed' ;
-	var sealName3 = 'Blaze Dance' ;
+	var sealName1 = 'Blaze Dance' ;
+	var sealName2 = 'Threaten Defense' ;
+	var sealName3 = 'Drive Speed' ;
 
 	// Normal trial
 	// var majorPrizes = [
