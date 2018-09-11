@@ -1,5 +1,5 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Sweet Dreams' ;
+	var trialName = 'Doorway to Destiny' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
 	var startDate = new Date(Date.UTC(2018, 8, 11, 7, 00)) ;
 	var endDate = new Date(Date.UTC(2018, 8, 21, 6, 59)) ;
