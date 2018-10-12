@@ -1,16 +1,16 @@
 app.factory('trialData',function($rootScope) {
 	var trialName = 'Sweet Dreams' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2018, 6, 15, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2018, 6, 25, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2018, 8, 11, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2018, 8, 20, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Masked Marth' ;
+	var charName = 'Ethlyn' ;
 
 	// Seal Prizes
-	var sealName1 = 'HP/Res+' ;
-	var sealName2 = 'Speed Ploy' ;
-	var sealName3 = 'Flashing Blade' ;
+	var sealName1 = 'Threaten Defense' ;
+	var sealName2 = 'Drive Speed' ;
+	var sealName3 = 'Blaze Dance' ;
 
 	// Normal trial
 	// var majorPrizes = [
