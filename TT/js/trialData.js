@@ -1,16 +1,16 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Before We Met...' ;
+	var trialName = 'Life is But Fleeting' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2018, 10, 12, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2018, 10, 22, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2018, 11, 18, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2018, 11, 28, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Young Azura' ;
+	var charName = 'Winter Cecilia' ;
 
 	// Seal Prizes
-	var sealName1 = 'Gale Dance' ;
-	var sealName2 = 'Water Boost' ;
-	var sealName3 = 'Atk/Def Bond' ;
+	var sealName1 = 'Atk/Spd+' ;
+	var sealName2 = 'Fierce Stance' ;
+	var sealName3 = 'Drive Res' ;
 
 	// Normal trial
 	// var majorPrizes = [
@@ -61,7 +61,7 @@ app.factory('trialData',function($rootScope) {
 {points:"9000",amount:"1,000",img:"feather.png"},
 {points:"10000",amount:sealName2,img:"seal2.png"},
 {points:"11250",amount:"3",img:"orb.png"},
-{points:"12500",amount:"1",img:"wiBlessing.png"},
+{points:"12500",amount:"1",img:"waBlessing.png"},
 {points:"13750",amount:"20",img:"coin.png"},
 {points:"15000",amount:"5*",img:"thumb.png"},
 {points:"16250",amount:"1,000",img:"feather.png"},
