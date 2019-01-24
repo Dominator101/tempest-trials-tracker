@@ -1,16 +1,16 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Life is But Fleeting' ;
+	var trialName = 'An Alliance of Princesses' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2018, 11, 18, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2018, 11, 28, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 0, 1, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 0, 11, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Winter Cecilia' ;
+	var charName = 'New Year\'s Laegjarn' ;
 
 	// Seal Prizes
-	var sealName1 = 'Atk/Spd+' ;
-	var sealName2 = 'Fierce Stance' ;
-	var sealName3 = 'Drive Res' ;
+	var sealName1 = 'Threaten Res' ;
+	var sealName2 = 'Spur Def/Res' ;
+	var sealName3 = 'Atk/Spd Bond' ;
 
 	// Normal trial
 	// var majorPrizes = [
@@ -61,7 +61,7 @@ app.factory('trialData',function($rootScope) {
 {points:"9000",amount:"1,000",img:"feather.png"},
 {points:"10000",amount:sealName2,img:"seal2.png"},
 {points:"11250",amount:"3",img:"orb.png"},
-{points:"12500",amount:"1",img:"waBlessing.png"},
+{points:"12500",amount:"1",img:"liBlessing.png"},
 {points:"13750",amount:"20",img:"coin.png"},
 {points:"15000",amount:"5*",img:"thumb.png"},
 {points:"16250",amount:"1,000",img:"feather.png"},
