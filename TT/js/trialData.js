@@ -1,16 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'An Alliance of Princesses' ;
+	var trialName = 'Heating Things Up' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 0, 1, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 0, 11, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 0, 26, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 1, 5, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'New Year\'s Laegjarn' ;
+	var charName = 'Hot Springs Camilla' ;
 
 	// Seal Prizes
-	var sealName1 = 'Threaten Res' ;
-	var sealName2 = 'Spur Def/Res' ;
-	var sealName3 = 'Atk/Spd Bond' ;
+	var sealName1 = 'Even Def Wave' ;
+	var sealName2 = 'Fire Boost' ;
+	var sealName3 = 'Brazen Atk/Def' ;
+
+	var blessing = 'wa'
 
 	// Normal trial
 	// var majorPrizes = [
@@ -61,7 +63,7 @@ app.factory('trialData',function($rootScope) {
 {points:"9000",amount:"1,000",img:"feather.png"},
 {points:"10000",amount:sealName2,img:"seal2.png"},
 {points:"11250",amount:"3",img:"orb.png"},
-{points:"12500",amount:"1",img:"liBlessing.png"},
+{points:"12500",amount:"1",img:blessing+"Blessing.png"},
 {points:"13750",amount:"20",img:"coin.png"},
 {points:"15000",amount:"5*",img:"thumb.png"},
 {points:"16250",amount:"1,000",img:"feather.png"},
