@@ -1,6 +1,7 @@
 app.controller('defaultCont', function($scope, $rootScope, $location, trialData) {
 	$scope.trialData = trialData ;
 	$scope.showAll = false ;
+	$scope.alt = false ;
 
 	$scope.$watch(
 		function() { return trialData.points; },
@@ -16,10 +17,12 @@ app.controller('defaultCont', function($scope, $rootScope, $location, trialData)
 	$scope.getBackgroundURL = function() {
 		var backStyle = 'url(\'' ;
 
-		var imgURL = 'img/posters/neutral.png' ;
-		if(trialData.points >= trialData.majorPrizes[1].points) imgURL = 'img/posters/attack.png' ;
-		if(trialData.points >= trialData.majorPrizes[3].points) imgURL = 'img/posters/special.png' ;
-		if(trialData.points >= trialData.majorPrizes[4].points) imgURL = 'img/posters/damage.png' ;
+		var alt = $scope.alt ? 'alt' : '' ;
+
+		var imgURL = 'img/posters/' + alt + 'neutral.png' ;
+		if(trialData.points >= trialData.majorPrizes[1].points) imgURL = 'img/posters/' + alt + 'attack.png' ;
+		if(trialData.points >= trialData.majorPrizes[3].points) imgURL = 'img/posters/' + alt + 'special.png' ;
+		if(trialData.points >= trialData.majorPrizes[4].points) imgURL = 'img/posters/' + alt + 'damage.png' ;
 		
 
 		backStyle += imgURL + '\')' ;

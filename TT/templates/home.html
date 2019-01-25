@@ -20,6 +20,12 @@
 	</div>
 </div>
 <div class="container">
+
+	<div style="text-align:center;">
+		<button ng-click="alt = !alt">
+			Toggle Art
+		</button>
+	</div>
 	<div class="row">
 		<!-- Seal unlocks -->
 		<div class="col-xl-3 col-md-4 d-md-block d-none" style="padding:0;">
@@ -79,7 +85,7 @@
 					ng-class="{strikeout: prize.points <= trialData.points, projected: isProjected(prize, trialData.allPrizes[$index+1])}">
 					<td><a id="projectedAnchor" ng-if="isProjected(prize, trialData.allPrizes[$index+1])"></a>{{prize.points}}</td>
 					<td>
-						{{prize.amount}} <img ng-src="img/{{prize.img}}">
+						{{prize.amount}} <img ng-src="img/{{prize.img}}" style="max-width:42px;max-height:42px;">
 					</td>
 				</tr>
 			</table>
@@ -97,7 +103,7 @@
 					ng-class="{strikeout: prize.points <= trialData.points, projected: isProjected(prize, trialData.allPrizes[$index+1])}">
 					<td><a id="projectedAnchor" ng-if="isProjected(prize, trialData.allPrizes[$index+1])"></a>{{prize.points}}</td>
 					<td>
-						{{prize.amount}} <img ng-src="img/{{prize.img}}">
+						{{prize.amount}} <img ng-src="img/{{prize.img}}" style="max-width:42px;max-height:42px;">
 					</td>
 				</tr>
 			</table>
@@ -113,7 +119,7 @@
 					ng-class="{strikeout: prize.points <= trialData.points, projected: isProjected(prize, trialData.allPrizes[$index+1])}">
 					<td><a id="projectedAnchor" ng-if="isProjected(prize, trialData.allPrizes[$index+1])"></a>{{prize.points}}</td>
 					<td>
-						{{prize.amount}} <img ng-src="img/{{prize.img}}">
+						{{prize.amount}} <img ng-src="img/{{prize.img}}" style="max-width:42px;max-height:42px;">
 					</td>
 				</tr>
 			</table>
