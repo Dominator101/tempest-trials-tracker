@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Heating Things Up' ;
+	var trialName = 'Greil\'s Request' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 0, 26, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 1, 5, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 1, 10, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 2, 20, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Hot Springs Camilla' ;
+	var charName = 'devoted Titania' ;
 
 	// Seal Prizes
-	var sealName1 = 'Even Def Wave' ;
-	var sealName2 = 'Fire Boost' ;
-	var sealName3 = 'Brazen Atk/Def' ;
+	var sealName1 = 'Darting Blow' ;
+	var sealName2 = 'Torrent Dance' ;
+	var sealName3 = 'Aerobatics' ;
 
-	var blessing = 'wa'
+	var blessing = 'an'
 
 	// Normal trial
 	// var majorPrizes = [
