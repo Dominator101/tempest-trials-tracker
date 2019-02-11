@@ -2,10 +2,10 @@ app.factory('trialData',function($rootScope) {
 	var trialName = 'Greil\'s Request' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
 	var startDate = new Date(Date.UTC(2019, 1, 10, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 2, 20, 6, 59)) ;
+	var endDate = new Date(Date.UTC(2019, 1, 20, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'devoted Titania' ;
+	var charName = 'Devoted Titania' ;
 
 	// Seal Prizes
 	var sealName1 = 'Darting Blow' ;
