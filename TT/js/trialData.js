@@ -8,8 +8,8 @@ app.factory('trialData',function($rootScope) {
 	var charName = 'Devoted Titania' ;
 
 	// Seal Prizes
-	var sealName1 = 'Darting Blow' ;
-	var sealName2 = 'Torrent Dance' ;
+	var sealName1 = 'Torrent Dance' ;
+	var sealName2 = 'Darting Blow' ;
 	var sealName3 = 'Aerobatics' ;
 
 	var blessing = 'an'
