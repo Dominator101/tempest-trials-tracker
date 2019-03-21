@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Greil\'s Request' ;
+	var trialName = 'To Defy the gods' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 1, 10, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 1, 20, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 2, 23, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 3, 2, 6, 59)) ;
 
 	// Character prizes
 	var charName = 'Devoted Titania' ;
 
 	// Seal Prizes
-	var sealName1 = 'Torrent Dance' ;
-	var sealName2 = 'Darting Blow' ;
-	var sealName3 = 'Aerobatics' ;
+	var sealName1 = 'Spd/Res Bond' ;
+	var sealName2 = 'HP/Spd+' ;
+	var sealName3 = 'Warding Stance' ;
 
-	var blessing = 'an'
+	var blessing = 'fi'
 
 	// Normal trial
 	// var majorPrizes = [
