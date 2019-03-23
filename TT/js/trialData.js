@@ -5,7 +5,7 @@ app.factory('trialData',function($rootScope) {
 	var endDate = new Date(Date.UTC(2019, 3, 2, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Devoted Titania' ;
+	var charName = 'Spring Loki' ;
 
 	// Seal Prizes
 	var sealName1 = 'HP/Spd+' ;
