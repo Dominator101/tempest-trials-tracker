@@ -8,9 +8,9 @@ app.factory('trialData',function($rootScope) {
 	var charName = 'Devoted Titania' ;
 
 	// Seal Prizes
-	var sealName1 = 'Spd/Res Bond' ;
-	var sealName2 = 'HP/Spd+' ;
-	var sealName3 = 'Warding Stance' ;
+	var sealName1 = 'HP/Spd+' ;
+	var sealName2 = 'Warding Stance' ;
+	var sealName3 = 'Spd/Res Bond' ;
 
 	var blessing = 'fi'
 
