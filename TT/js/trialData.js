@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'To Defy the gods' ;
+	var trialName = 'Taste of Spring' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 2, 23, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 3, 2, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 3, 24, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 4, 4, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Spring Loki' ;
+	var charName = 'Spring Leo' ;
 
 	// Seal Prizes
-	var sealName1 = 'HP/Spd+' ;
-	var sealName2 = 'Warding Stance' ;
-	var sealName3 = 'Spd/Res Bond' ;
+	var sealName1 = 'Wind Boost' ;
+	var sealName2 = 'Even Res Wave' ;
+	var sealName3 = 'Chill Atk' ;
 
-	var blessing = 'fi'
+	var blessing = 'da'
 
 	// Normal trial
 	// var majorPrizes = [
