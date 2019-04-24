@@ -9,7 +9,7 @@ app.factory('trialData',function($rootScope) {
 
 	// Seal Prizes
 	var sealName1 = 'Wind Boost' ;
-	var sealName2 = 'WEven Res Wave' ;
+	var sealName2 = 'Even Res Wave' ;
 	var sealName3 = 'Chill Atk' ;
 
 	var blessing = 'da'
