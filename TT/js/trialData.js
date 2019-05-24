@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Taste of Spring' ;
+	var trialName = 'The Holy Guard' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 3, 24, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 4, 4, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 4, 25, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 5, 4, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Spring Leo' ;
+	var charName = 'Bride Louise' ;
 
 	// Seal Prizes
-	var sealName1 = 'Wind Boost' ;
-	var sealName2 = 'Even Res Wave' ;
-	var sealName3 = 'Chill Atk' ;
+	var sealName1 = 'Speed/Res+' ;
+	var sealName2 = 'Brazen Attack/Speed' ;
+	var sealName3 = 'Renewal' ;
 
-	var blessing = 'da'
+	var blessing = 'ea'
 
 	// Normal trial
 	// var majorPrizes = [
