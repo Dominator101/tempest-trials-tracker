@@ -9,8 +9,8 @@ app.factory('trialData',function($rootScope) {
 
 	// Seal Prizes
 	var sealName1 = 'Speed/Res+' ;
-	var sealName2 = 'Brazen Attack/Speed' ;
-	var sealName3 = 'Renewal' ;
+	var sealName2 = 'Renewal' ;
+	var sealName3 = 'Brazen Attack/Speed' ;
 
 	var blessing = 'ea'
 
