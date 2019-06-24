@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'The Holy Guard' ;
+	var trialName = 'A Promise of Joy' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 4, 25, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 5, 4, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 5, 24, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 6, 4, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Bride Louise' ;
+	var charName = 'Summer Ylgr' ;
 
 	// Seal Prizes
-	var sealName1 = 'Speed/Res+' ;
-	var sealName2 = 'Renewal' ;
-	var sealName3 = 'Brazen Attack/Speed' ;
+	var sealName1 = 'Armored Blow' ;
+	var sealName2 = 'Spur Attack/Speed' ;
+	var sealName3 = 'Attack/Res Bond' ;
 
-	var blessing = 'ea'
+	var blessing = 'as'
 
 	// Normal trial
 	// var majorPrizes = [
