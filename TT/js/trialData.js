@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'A Promise of Joy' ;
+	var trialName = 'Lessons Learned' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 5, 24, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 6, 4, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 6, 12, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 6, 22, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Summer Ylgr' ;
+	var charName = 'Summer Fiora' ;
 
 	// Seal Prizes
-	var sealName1 = 'Armored Blow' ;
-	var sealName2 = 'Spur Attack/Speed' ;
-	var sealName3 = 'Attack/Res Bond' ;
+	var sealName1 = 'Attack/Res+' ;
+	var sealName2 = 'Steady Stance' ;
+	var sealName3 = 'Chill Speed' ;
 
-	var blessing = 'as'
+	var blessing = 'wi'
 
 	// Normal trial
 	// var majorPrizes = [
