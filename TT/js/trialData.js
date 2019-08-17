@@ -8,9 +8,9 @@ app.factory('trialData',function($rootScope) {
 	var charName = 'Sigrun' ;
 
 	// Seal Prizes
-	var sealName1 = 'Sturdy Blow' ;
-	var sealName2 = 'Atk Tactic' ;
-	var sealName3 = 'Earth Boost' ;
+	var sealName1 = 'Earth Boost' ;
+	var sealName2 = 'Sturdy Blow' ;
+	var sealName3 = 'Atk Tactic' ;
 
 	var blessing = 'da'
 
