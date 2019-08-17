@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Lessons Learned' ;
+	var trialName = 'A Hero\'s Mettle' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 6, 12, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 6, 22, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 7, 17, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 7, 27, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Summer Fiora' ;
+	var charName = 'Sigrun' ;
 
 	// Seal Prizes
-	var sealName1 = 'Attack/Res+' ;
-	var sealName2 = 'Steady Stance' ;
-	var sealName3 = 'Chill Speed' ;
+	var sealName1 = 'Sturdy Blow' ;
+	var sealName2 = 'Atk Tactic' ;
+	var sealName3 = 'Earth Boost' ;
 
-	var blessing = 'wi'
+	var blessing = 'da'
 
 	// Normal trial
 	// var majorPrizes = [
