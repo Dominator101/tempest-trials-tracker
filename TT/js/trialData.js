@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Till Song\'s End' ;
+	var trialName = 'A Child\'s Wish' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 8, 10, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 8, 20, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 9, 14, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 9, 24, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Rinea' ;
+	var charName = 'Halloween Rolf' ;
 
 	// Seal Prizes
-	var sealName1 = 'HP/Atk+' ;
-	var sealName2 = 'Attack Feint' ;
-	var sealName3 = 'Def Res Bond' ;
+	var sealName1 = 'Defiant Attack' ;
+	var sealName2 = 'Swift Stance' ;
+	var sealName3 = 'Chill Defense' ;
 
-	var blessing = 'ea'
+	var blessing = 'an'
 
 	// Normal trial
 	// var majorPrizes = [
