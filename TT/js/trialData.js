@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Sands of Time' ;
+	var trialName = 'For a Smile' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 10, 22, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 11, 2, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2019, 11, 17, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2019, 11, 27, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Brunnya' ;
+	var charName = 'Christmas Jaffar' ;
 
 	// Seal Prizes
-	var sealName1 = 'Def/Res+' ;
-	var sealName2 = 'Spur Atk/Res' ;
-	var sealName3 = 'Flier Formation' ;
+	var sealName1 = 'Warding Blow' ;
+	var sealName2 = 'Steady Posture' ;
+	var sealName3 = 'Distant Guard' ;
 
-	var blessing = 'wa'
+	var blessing = 'as'
 
 	// Normal trial
 	// var majorPrizes = [
