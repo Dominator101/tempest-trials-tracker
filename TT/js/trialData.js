@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'For a Smile' ;
+	var trialName = 'Mid-fest Digest' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2019, 11, 17, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2019, 11, 27, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2020, 0, 3, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2020, 0, 13, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Christmas Jaffar' ;
+	var charName = 'New Years Eir' ;
 
 	// Seal Prizes
-	var sealName1 = 'Warding Blow' ;
-	var sealName2 = 'Steady Posture' ;
-	var sealName3 = 'Distant Guard' ;
+	var sealName1 = 'HP/Def' ;
+	var sealName2 = 'Spd Feint' ;
+	var sealName3 = 'Swift Sparrow' ;
 
-	var blessing = 'as'
+	var blessing = 'li'
 
 	// Normal trial
 	// var majorPrizes = [
