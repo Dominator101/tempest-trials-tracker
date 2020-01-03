@@ -2,7 +2,7 @@ app.factory('trialData',function($rootScope) {
 	var trialName = 'Mid-fest Digest' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
 	var startDate = new Date(Date.UTC(2020, 0, 3, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2020, 0, 13, 6, 59)) ;
+	var endDate = new Date(Date.UTC(2020, 0, 14, 6, 59)) ;
 
 	// Character prizes
 	var charName = 'New Years Eir' ;
