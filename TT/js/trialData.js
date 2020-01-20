@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Mid-fest Digest' ;
+	var trialName = 'Mirage Vortex' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2020, 0, 3, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2020, 0, 14, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2020, 0, 21, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2020, 0, 31, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'New Years Eir' ;
+	var charName = 'Itsuki' ;
 
 	// Seal Prizes
-	var sealName1 = 'HP/Def' ;
-	var sealName2 = 'Spd Feint' ;
-	var sealName3 = 'Swift Sparrow' ;
+	var sealName1 = 'Defiant Defense' ;
+	var sealName2 = 'Mirror Stance' ;
+	var sealName3 = 'Chill Res' ;
 
-	var blessing = 'li'
+	var blessing = 'fi'
 
 	// Normal trial
 	// var majorPrizes = [
