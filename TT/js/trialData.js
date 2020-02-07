@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Mirage Vortex' ;
+	var trialName = 'Romance Whirlwind' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2020, 0, 21, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2020, 0, 31, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2020, 1, 5, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2020, 1, 18, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Itsuki' ;
+	var charName = 'Lovely Silque' ;
 
 	// Seal Prizes
-	var sealName1 = 'Defiant Defense' ;
-	var sealName2 = 'Mirror Stance' ;
-	var sealName3 = 'Chill Res' ;
+	var sealName1 = 'Defiant Speed' ;
+	var sealName2 = 'Even Attack Wave' ;
+	var sealName3 = 'Close GUard' ;
 
-	var blessing = 'fi'
+	var blessing = 'an'
 
 	// Normal trial
 	// var majorPrizes = [
