@@ -1,7 +1,7 @@
 app.factory('trialData',function($rootScope) {
 	var trialName = 'Romance Whirlwind' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2020, 1, 5, 7, 00)) ;
+	var startDate = new Date(Date.UTC(2020, 1, 8, 7, 00)) ;
 	var endDate = new Date(Date.UTC(2020, 1, 18, 6, 59)) ;
 
 	// Character prizes
