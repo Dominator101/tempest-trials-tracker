@@ -10,7 +10,7 @@ app.factory('trialData',function($rootScope) {
 	// Seal Prizes
 	var sealName1 = 'Defiant Speed' ;
 	var sealName2 = 'Even Attack Wave' ;
-	var sealName3 = 'Close GUard' ;
+	var sealName3 = 'Close Guard' ;
 
 	var blessing = 'an'
 
