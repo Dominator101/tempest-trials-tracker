@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Romance Whirlwind' ;
+	var trialName = 'Full-Bloom Bout' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2020, 1, 8, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2020, 1, 18, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2020, 2, 20, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2020, 2, 30, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Lovely Silque' ;
+	var charName = 'Spring Bartre' ;
 
 	// Seal Prizes
-	var sealName1 = 'Defiant Speed' ;
-	var sealName2 = 'Even Attack Wave' ;
-	var sealName3 = 'Close Guard' ;
+	//var sealName1 = 'Defiant Speed' ;
+	var sealName2 = 'Defense Feint' ;
+	var sealName3 = 'Death Blow' ;
 
-	var blessing = 'an'
+	var blessing = 'wa';
 
 	// Normal trial
 	// var majorPrizes = [
@@ -27,7 +27,8 @@ app.factory('trialData',function($rootScope) {
 	//Mini trial
 	var majorPrizes = [
 		{type:'char', points:1000, name:'4* ' + charName},
-		{type:'seal', points:6000, name:sealName1},
+		// This isn't a seal, but whatever, don't want to fix it now
+		{type:'seal', points:6000, name:"Divine Codes"},
 		{type:'seal', points:10000, name:sealName2},
 		{type:'char', points:15000, name:'5* ' + charName},
 		{type:'seal', points:20000, name:sealName3},
@@ -57,7 +58,8 @@ app.factory('trialData',function($rootScope) {
 {points:"4500",amount:"2",img:"orb.png"},
 {points:"5000",amount:"20",img:"coin.png"},
 {points:"5500",amount:"750",img:"feather.png"},
-{points:"6000",amount:sealName1,img:"seal1.png"},
+//{points:"6000",amount:sealName1,img:"seal1.png"},
+{points:"6000",amount:"50",img:"codes.png"},
 {points:"7000",amount:"2",img:"orb.png"},
 {points:"8000",amount:"2,000",img:"yCrystal.png"},
 {points:"9000",amount:"1,000",img:"feather.png"},
