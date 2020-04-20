@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Full-Bloom Bout' ;
+	var trialName = 'Iote\'s return' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2020, 2, 20, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2020, 2, 30, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2020, 3, 21, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2020, 4, 1, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Spring Bartre' ;
+	var charName = 'Young Minerva' ;
 
 	// Seal Prizes
 	//var sealName1 = 'Defiant Speed' ;
-	var sealName2 = 'Defense Feint' ;
-	var sealName3 = 'Death Blow' ;
+	var sealName2 = 'Sturdy Stance' ;
+	var sealName3 = 'Speed Tactic' ;
 
-	var blessing = 'wa';
+	var blessing = 'da';
 
 	// Normal trial
 	// var majorPrizes = [
