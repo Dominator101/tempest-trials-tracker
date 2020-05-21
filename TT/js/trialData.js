@@ -1,18 +1,18 @@
 app.factory('trialData',function($rootScope) {
-	var trialName = 'Iote\'s return' ;
+	var trialName = 'A Waltz Unending' ;
 	$rootScope.title = 'Tempest Trials: \'' + trialName + '\' Progress Tracker' ;
-	var startDate = new Date(Date.UTC(2020, 3, 21, 7, 00)) ;
-	var endDate = new Date(Date.UTC(2020, 4, 1, 6, 59)) ;
+	var startDate = new Date(Date.UTC(2020, 4, 22, 7, 00)) ;
+	var endDate = new Date(Date.UTC(2020, 5, 1, 6, 59)) ;
 
 	// Character prizes
-	var charName = 'Young Minerva' ;
+	var charName = 'Groom Hinata' ;
 
 	// Seal Prizes
 	//var sealName1 = 'Defiant Speed' ;
-	var sealName2 = 'Sturdy Stance' ;
-	var sealName3 = 'Speed Tactic' ;
+	var sealName2 = 'Even Speed Wave' ;
+	var sealName3 = 'Spd/Def Bond' ;
 
-	var blessing = 'da';
+	var blessing = 'fi';
 
 	// Normal trial
 	// var majorPrizes = [
